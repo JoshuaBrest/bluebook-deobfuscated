@@ -12,4 +12,4 @@ You shouldn't need to obfuscate client side code. You may bring up that you are 
 
 ## Is this legal?
 
-It had not been made clear if reverse enginering *JavaScript* code is legal or not, however, the project for the byte-for-byte decompilation of (Super Mario 64)[https://github.com/n64decomp/sm64] has not been taken down, only the PC port using the source code that used the assets in the game.
+It had not been made clear if reverse enginering *JavaScript* code is legal or not, however, the project for the byte-for-byte decompilation of [Super Mario 64](https://github.com/n64decomp/sm64) has not been taken down, only the PC port using the source code that used the assets in the game.
